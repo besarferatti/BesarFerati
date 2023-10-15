@@ -1,0 +1,61 @@
+*{
+    padding: 2px;
+}
+.whitecolor{
+    color: white;
+}
+.img1{
+    border-radius: 80% 80% 80% 80%;
+}
+.table1{
+    width: 90%;
+    background-color: #5b5870;
+    border-radius: 15px 15px 0px 0px;
+    box-shadow: 10px -10px 15px gray;
+    margin-top: 5px;
+}
+table{
+    box-shadow: 10px -1px 15px gray;
+}
+.social{
+    border-radius: 50%;
+}
+.color1{
+    background-color: #d4d0cf;
+}
+.color2{
+    background-color: #f0eded;
+}
+.color3{
+    background-color: #ccc8e6;
+
+}
+.color4{
+    background-color: #e1def7;
+}
+.pershkrimi:hover{
+    font-size: x-large;
+    transition-duration: 2s;
+}
+input{
+    background-color: #f0eded;
+    padding: 10px;
+    border-radius: 5px;
+}
+input:hover{
+    background-color: #575757;
+    color: white;
+    padding: 13px;
+    transition-duration: 1s;
+}
+input[type='submit']{
+    background-color: #53d271;
+    padding: 10px;
+    border-radius: 5px;
+}
+input[type='submit']:hover{
+    background-color: #dfdfdf;
+    color: rgb(51, 237, 98);
+    padding: 13px;
+    transition-duration: 1s;
+}
